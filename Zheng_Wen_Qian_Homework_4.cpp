@@ -100,3 +100,13 @@ void dna_to_rna(string dna)
     }
     cout << "The corresponding RNA sequence for " << dna << " is: " << rna << endl;
 }
+
+/*
+Enter 8 integers: 6 5 2 4 7 9 5 2
+Even numbers in the array are: 6 2 4 2 
+Total number of cars sold: 58
+Best salesperson: Salesperson #5
+Number of cars sold by the best salesperson: 14
+Enter a DNA sequence: TUGCA89A8WUUIAU````iujhsudjhz8s9aAUGCCGA
+The corresponding RNA sequence for TUGCA89A8WUUIAU````iujhsudjhz8s9aAUGCCGA is: ACGUUUUCGGCU
+*/
